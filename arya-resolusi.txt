@@ -2,3 +2,6 @@ arya resolusi
 - saya ingin bisa frontend
 - mempelajari backend sacara teratur
 - membuat project bersama
+- mengikuti bootcamp
+- mempelajari js
+- kolaborasi 
