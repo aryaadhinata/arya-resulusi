@@ -3,5 +3,5 @@ arya resolusi
 - mempelajari backend sacara teratur
 - membuat project bersama
 - mengikuti bootcamp
-- mempelajari js
 - kolaborasi 
+- mempelajari vara kerja git dan github
